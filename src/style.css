@@ -11,6 +11,7 @@ button {
   background-color: aqua;
   color: rgb(0, 0, 126);
   border: 5px solid red;
+  font-size: 76px;
 }
 
 p {
