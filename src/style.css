@@ -5,3 +5,16 @@ h1 {
   font-style: oblique;
   font-weight: 300;
 }
+
+button {
+  padding: 30px;
+  background-color: aqua;
+  color: rgb(0, 0, 126);
+  border: 5px solid red;
+}
+
+p {
+  font-size: 24px;
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
